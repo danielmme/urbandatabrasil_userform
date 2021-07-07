@@ -28,6 +28,7 @@ class contentType extends ProcessPluginBase {
       "Dissertação" => "trabalhos_de_conclusao",
       "Tese" => "trabalhos_de_conclusao",
       "Relatório" =>  "producoes_tecnicas",
+      "Texto" => "producoes_periodicos_cientificos",
     ];
 
     foreach($array as $key => $element) {
